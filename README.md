@@ -3,10 +3,8 @@
 Passionate about **innovation** and always eager to **push the boundaries** of Computer Science. 💡 As a **lifelong learner** and **problem solver**, I continuously refine my skills in **emerging technologies**, embracing challenges and finding joy in solving complex problems. ⚡ I thrive in **collaborative environments**, contributing to impactful projects, exchanging ideas with like-minded individuals, and learning from experienced professionals. 🌱 With a strong focus on **technical expertise, creativity, and curiosity**, I am committed to **building a successful career** in technology. 🎯 I firmly believe that **every challenge is an opportunity in disguise**, fueling my drive to **explore, learn, and grow**. 🌍✨  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/chaitanyac5)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/gellachaitanyavenkatasai/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/chaitanyaC5/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Chaitanya_C5)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/chaitanyac5)[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/gellachaitanyavenkatasai/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/chaitanyaC5/) [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Chaitanya_C5)  
 
 
 # 💻 Tech Stack:
