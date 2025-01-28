@@ -1,6 +1,5 @@
 ## 🚀 About Me  
-
-Passionate about **innovation** and always eager to **push the boundaries** of Computer Science. 💡 As a **lifelong learner** and **problem solver**, I continuously refine my skills in **emerging technologies**, embracing challenges and finding joy in solving complex problems. ⚡ I thrive in **collaborative environments**, contributing to impactful projects, exchanging ideas with like-minded individuals, and learning from experienced professionals. 🌱 With a strong focus on **technical expertise, creativity, and curiosity**, I am committed to **building a successful career** in technology. 🎯 I firmly believe that **every challenge is an opportunity in disguise**, fueling my drive to **explore, learn, and grow**. 🌍✨  
+Driven by a passion for technology, I am always excited to explore innovative solutions in the world of Computer Science. 🌐 As someone who embraces continuous learning, I enjoy diving into new technologies, tackling challenges head-on, and finding satisfaction in problem-solving. 🔍 I am deeply motivated by teamwork, collaborating on meaningful projects, sharing insights, and growing alongside talented professionals. 🤝 With a blend of technical skills, imagination, and curiosity, I am dedicated to shaping a successful future in tech. 🚀 I firmly believe that each obstacle is a chance to innovate, inspiring me to push forward, discover, and evolve. 🌟
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/chaitanyac5)  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/gellachaitanyavenkatasai/)
@@ -16,6 +15,7 @@ Passionate about **innovation** and always eager to **push the boundaries** of C
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23315792.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
